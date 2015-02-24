@@ -17,6 +17,7 @@ end
 gem 'bootstrap-sass'
 gem 'devise'
 gem 'puma'
+#gem 'unicorn'
 gem 'pundit'
 gem 'simple_form'
 group :development do
